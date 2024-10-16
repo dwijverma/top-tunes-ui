@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/top-tunes-ui/static/css/main.6dd7ecf7.css",
-    "main.js": "/top-tunes-ui/static/js/main.ece9d36e.js",
+    "main.js": "/top-tunes-ui/static/js/main.f9751145.js",
     "static/media/circular-std-medium-500.ttf": "/top-tunes-ui/static/media/circular-std-medium-500.3fcb6535e39024a69e30.ttf",
     "index.html": "/top-tunes-ui/index.html",
     "main.6dd7ecf7.css.map": "/top-tunes-ui/static/css/main.6dd7ecf7.css.map",
-    "main.ece9d36e.js.map": "/top-tunes-ui/static/js/main.ece9d36e.js.map"
+    "main.f9751145.js.map": "/top-tunes-ui/static/js/main.f9751145.js.map"
   },
   "entrypoints": [
     "static/css/main.6dd7ecf7.css",
-    "static/js/main.ece9d36e.js"
+    "static/js/main.f9751145.js"
   ]
 }
